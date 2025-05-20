@@ -1,0 +1,15 @@
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\bin\Debug\net9.0\DIO DOTNET.exe
+C:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\bin\Debug\net9.0\DIO DOTNET.deps.json
+C:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\bin\Debug\net9.0\DIO DOTNET.runtimeconfig.json
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\bin\Debug\net9.0\DIO DOTNET.dll
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\bin\Debug\net9.0\DIO DOTNET.pdb
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.AssemblyInfoInputs.cache
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.AssemblyInfo.cs
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.csproj.CoreCompileInputs.cache
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.sourcelink.json
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.dll
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\refint\DIO DOTNET.dll
+c:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.pdb
+C:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\DIO DOTNET.genruntimeconfig.cache
+C:\Users\Maycon Rodrigues\OneDrive\Documentos\GitHub\DIO-DOTNET\obj\Debug\net9.0\ref\DIO DOTNET.dll
