@@ -33,18 +33,14 @@
     </tr>
       <tr>
       <td>05</td>
-      <td>Programação Orientada a Objetos com C# -- 6 atividades</td>    
-    </tr>
-      <tr>
-      <td>06</td>
       <td>Introdução a Banco de Dados -- 5 atividades</td>    
     </tr>
        <tr>
-      <td>07</td>
+      <td>06</td>
       <td>Introdução a Qualidade de Software -- 4 atividades</td>    
     </tr>
        <tr>
-      <td>08</td>
+      <td>07</td>
       <td>Criando Contêineres com Docker -- 8 atividades</td>    
     </tr>
       </tr>
