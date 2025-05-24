@@ -1,6 +1,7 @@
 ﻿using DIO_DOTNET.Models;
 
 Pessoa pessoal = new Pessoa();
+Console.WriteLine("Apresentação!");
 
 pessoal.Nome = "Maycon Rodrigues";
 pessoal.Idade = 33;
@@ -21,3 +22,25 @@ Console.WriteLine("Valor da variável condição: " + condicao);
 DateTime dataAtual = DateTime.Now;
 Console.WriteLine(dataAtual);
 Console.WriteLine("Hoje é dia: " + dataAtual.ToString("dd")+", do mês de "+dataAtual.ToString("MMMM")+", no ano de "+ dataAtual.ToString("yyyy"));
+
+int quantidaEmEstoque = 10;
+int quantidadedeCompra = 4;
+bool possivelVenda = quantidadedeCompra > 0 && quantidaEmEstoque >= quantidadedeCompra;
+if (possivelVenda)
+
+Console.WriteLine($"Quantidade em estoque: {quantidaEmEstoque}");
+Console.WriteLine($"Quantidade compra :{quantidadedeCompra}");
+Console.WriteLine($"É possivel realizar a venda? {possivelVenda}");
+
+if (quantidadedeCompra == 0)
+{
+    Console.WriteLine("Venda inválida");
+}
+else if (possivelVenda)
+{
+    Console.WriteLine("Venda Realizada!");
+}
+else
+{
+    Console.WriteLine("Venda negada! não temos a quantidade deseja no estoque.");
+}
